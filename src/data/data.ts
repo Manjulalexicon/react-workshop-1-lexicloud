@@ -51,3 +51,50 @@ export const features: Feature[] = [
       "Professional business solution built with Tailwind CSS utility classes.",
   },
 ];
+export const pricingPlans = [
+  {
+    name: "Starter",
+    price: "$19",
+    features: [
+      "Responsive Design",
+      "Support",
+      "Updates",
+    ],
+  },
+  {
+    name: "Professional",
+    price: "$49",
+    features: [
+      "Responsive Design",
+      "Support",
+      "Updates",
+    ],
+  },
+  {
+    name: "Enterprise",
+    price: "Custom",
+    features: [
+      "Responsive Design",
+      "Support",
+      "Updates",
+    ],
+  },
+];
+export const statistics = [
+  {
+    value: "500+",
+    label: "Clients",
+  },
+  {
+    value: "99.9%",
+    label: "Uptime",
+  },
+  {
+    value: "120+",
+    label: "Experts",
+  },
+  {
+    value: "25",
+    label: "Countries",
+  },
+];
