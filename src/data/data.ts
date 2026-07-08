@@ -98,3 +98,18 @@ export const statistics = [
     label: "Countries",
   },
 ];
+
+export const testimonials = [
+  {
+    quote: "Amazing platform!",
+    author: "John Carter",
+  },
+  {
+    quote: "Highly recommended.",
+    author: "Sarah Wilson",
+  },
+  {
+    quote: "Excellent support.",
+    author: "Michael Brown",
+  },
+];

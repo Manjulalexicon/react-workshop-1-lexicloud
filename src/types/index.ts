@@ -9,3 +9,8 @@ export interface PricingPlan {
   price: string;
   features: string[];
 }
+
+export interface Testimonial {
+  quote: string;
+  author: string;
+}
