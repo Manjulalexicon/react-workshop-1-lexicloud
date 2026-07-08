@@ -4,6 +4,8 @@ import Features from "./components/Features";
 import Stats from "./components/Stats";
 import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
+import CallToAction from "./components/CallToAction";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <Stats />
       <Pricing />
       <Testimonials />
+      <CallToAction />
+      <Footer />
     </>
   );
 }
